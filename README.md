@@ -1,2 +1,2 @@
-# Python-KonstantinShmarin
+# ДОМАШКА
 I ilove Math!
